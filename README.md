@@ -1,100 +1,65 @@
-## 🚀 Hiury Vilanova
+<div align="center">
 
-Analista de Sistemas | Java | Kotlin | Spring | AWS | Microsserviços
+👋 Fala, eu sou o Hiury Vilanova  
+Software Engineer / Backend Architect  
+Focado em Java, Kotlin, Spring, Microsserviços e Cloud AWS.
 
-Desenvolvedor com sólida experiência em sistemas críticos, arquitetura distribuída e soluções escaláveis em nuvem.
+</div>
 
-👨‍💻 Sobre mim
+---
 
-Sou Analista de Sistemas com experiência em desenvolvimento backend e full stack, atuando em projetos para:
+🧠 Sobre mim  
+Atuo projetando e evoluindo sistemas distribuídos em ambientes financeiros e corporativos  
+Experiência com sistemas críticos (B3, bancos, crédito empresarial, PIX)  
+Foco em arquitetura escalável, mensageria e alta disponibilidade  
+Trabalho com microsserviços, comunicação assíncrona e cloud-native  
 
-B3 (Bolsa de Valores)
+💼 Hoje atuo desenhando e evoluindo:
 
-Banco do Brasil
+Arquitetura de microsserviços com Spring Boot  
+Sistemas orientados a eventos (Kafka e SQS)  
+APIs REST seguras e performáticas  
+Soluções serverless na AWS  
+Sistemas resilientes com foco em confiabilidade e escalabilidade  
 
-Santander (Visa Vale / Pluxee)
+---
 
-BDMG
+🚀 Stack / o que eu mais uso no dia a dia  
 
-Governo do Distrito Federal
+Backend & Arquitetura  
+Java (8+) • Kotlin • Spring Boot • Spring Cloud • WebFlux  
+JPA • Hibernate • Arquitetura orientada a domínio  
 
-RNP / PNLD
+Mensageria & Sistemas Distribuídos  
+Kafka • AWS SQS • Comunicação assíncrona  
+Event-driven architecture • Integração entre sistemas  
 
-Tenho forte atuação em arquitetura de microsserviços com Spring Boot, mensageria (Kafka e SQS) e soluções serverless na AWS.
+Cloud & DevOps  
+AWS • Lambda • Arquitetura Serverless  
+Git • GitHub • CI/CD  
+Containers com Docker  
 
-Foco em performance, escalabilidade e confiabilidade.
+Frontend (exposição técnica)  
+Angular • AngularJS • React  
 
-🧠 Stack Principal
+Testes & Qualidade  
+JUnit • Mockito  
+Boas práticas de código e padronização arquitetural  
 
-Backend
+---
 
-Java 8+
+📊 Estatísticas do GitHub
+<div align="center">
 
-Kotlin
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" />
 
-Spring Boot
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark&hide_border=true" />
 
-Spring Cloud (Eureka, Config, Ribbon)
+</div>
 
-WebFlux
+---
 
-JPA / Hibernate
-
-Frontend
-
-Angular
-
-AngularJS
-
-React
-
-Mensageria
-
-Kafka
-
-AWS SQS
-
-Cloud & DevOps
-
-AWS Lambda
-
-Arquitetura Serverless
-
-Git
-
-CI/CD
-
-Testes
-
-JUnit
-
-Mockito
-
-🏗️ Experiência com Arquitetura
-
-Microsserviços com Spring Boot
-
-Integração via mensageria
-
-APIs REST performáticas
-
-Sistemas financeiros e de alta criticidade
-
-Integração com PIX
-
-Monitoramento e otimização em produção
-
-Aplicações com alta disponibilidade
-
-🎓 Formação
-
-Graduação em Sistemas de Informação – UDF
-
-Pós-graduação em Inteligência Artificial (em andamento)
-
-Pós-graduação em Gestão de TI e Projetos (em andamento)
-
-📫 Contato
-
-📍 Brasília – DF
-📧 hiuryhenrique2012@gmail.com
+📫 Como me encontrar  
+🌎 Brasília - DF  
+✉️ hiuryhenrique2012@gmail.com  
+💼 LinkedIn  
