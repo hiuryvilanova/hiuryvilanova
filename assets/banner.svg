@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Hiury Vilanova: fundador da H2V Systems, arquiteto de software e IA aplicada">
+  <defs>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fb923c"/>
+      <stop offset=".5" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="50%" r="45%">
+      <stop offset="0" stop-color="#f15a22" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <path id="t" d="M0 -7 L6 4 L-6 4 Z" fill="none" stroke-width="1.4" stroke-linejoin="round"/>
+    <style>
+      .tri { animation: drift 9s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
+      .tri:nth-child(3n) { animation-duration: 12s; }
+      .tri:nth-child(4n) { animation-duration: 7s; animation-direction: alternate-reverse; }
+      @keyframes drift { from { transform: translate(0, 0) rotate(0deg); opacity: .35; } to { transform: translate(6px, -10px) rotate(120deg); opacity: 1; } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes pulse { 50% { opacity: .35; } }
+      .name { font: 600 64px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: -2px; }
+      .role { font: 400 22px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #d4d4d4; }
+      .tag { font: 600 13px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 2px; fill: #fbbf24; }
+      .small { font: 400 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #9a9a9a; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="#000"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <!-- particle cluster on the right, in the H2V palette -->
+  <g transform="translate(930 160)">
+    <g class="tri"><use href="#t" x="-120" y="-70" stroke="#f15a22"/></g>
+    <g class="tri"><use href="#t" x="-80" y="-104" stroke="#fbbf24"/></g>
+    <g class="tri"><use href="#t" x="-30" y="-118" stroke="#ef4444"/></g>
+    <g class="tri"><use href="#t" x="24" y="-110" stroke="#fb923c"/></g>
+    <g class="tri"><use href="#t" x="74" y="-90" stroke="#f59e0b"/></g>
+    <g class="tri"><use href="#t" x="112" y="-56" stroke="#f15a22"/></g>
+    <g class="tri"><use href="#t" x="130" y="-8" stroke="#fbbf24"/></g>
+    <g class="tri"><use href="#t" x="118" y="40" stroke="#ef4444"/></g>
+    <g class="tri"><use href="#t" x="84" y="82" stroke="#fb923c"/></g>
+    <g class="tri"><use href="#t" x="34" y="106" stroke="#f15a22"/></g>
+    <g class="tri"><use href="#t" x="-22" y="110" stroke="#f59e0b"/></g>
+    <g class="tri"><use href="#t" x="-76" y="92" stroke="#fbbf24"/></g>
+    <g class="tri"><use href="#t" x="-116" y="56" stroke="#ef4444"/></g>
+    <g class="tri"><use href="#t" x="-138" y="8" stroke="#fb923c"/></g>
+    <g class="tri"><use href="#t" x="-60" y="-50" stroke="#f15a22"/></g>
+    <g class="tri"><use href="#t" x="0" y="-62" stroke="#ffe3b0"/></g>
+    <g class="tri"><use href="#t" x="58" y="-40" stroke="#f59e0b"/></g>
+    <g class="tri"><use href="#t" x="70" y="12" stroke="#ef4444"/></g>
+    <g class="tri"><use href="#t" x="40" y="58" stroke="#fbbf24"/></g>
+    <g class="tri"><use href="#t" x="-18" y="62" stroke="#f15a22"/></g>
+    <g class="tri"><use href="#t" x="-70" y="30" stroke="#fb923c"/></g>
+    <g class="tri"><use href="#t" x="-78" y="-12" stroke="#ffe3b0"/></g>
+    <g class="tri"><use href="#t" x="-20" y="-14" stroke="#ef4444"/></g>
+    <g class="tri"><use href="#t" x="20" y="14" stroke="#f59e0b"/></g>
+    <g class="tri"><use href="#t" x="186" y="-110" stroke="#f15a22"/></g>
+    <g class="tri"><use href="#t" x="200" y="96" stroke="#fbbf24"/></g>
+    <g class="tri"><use href="#t" x="-190" y="-118" stroke="#fb923c"/></g>
+    <g class="tri"><use href="#t" x="-200" y="110" stroke="#ef4444"/></g>
+  </g>
+
+  <text x="64" y="94" class="tag">FUNDADOR · H2V SYSTEMS</text>
+  <text x="62" y="166" class="name" fill="url(#hot)">Hiury Vilanova</text>
+  <text x="64" y="208" class="role">Arquiteto de Software · Sistemas críticos · IA aplicada</text>
+  <circle cx="70" cy="258" r="5" fill="#34d399" class="pulse"/>
+  <text x="84" y="263" class="small">Brasília, DF · Disponível para novos projetos</text>
+</svg>
